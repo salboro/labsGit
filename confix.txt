@@ -1,5 +1,7 @@
 #File with config
+#That config is nothing about, just for commit
 
 config=[
-        FIRST_OPTION: "first_option",
+        FIRST_OPTION: "git add .",
+        SECOND_OPTION: "git commit -m\"\"",
     ]
