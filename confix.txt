@@ -1,0 +1,5 @@
+#File with config
+
+config=[
+        FIRST_OPTION: "first_option",
+    ]
