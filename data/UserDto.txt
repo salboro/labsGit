@@ -1,0 +1,7 @@
+#Here is user dto
+
+{
+    "name",
+    "email",
+    "birth_date",
+}
